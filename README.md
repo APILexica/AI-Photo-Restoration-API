@@ -1,6 +1,16 @@
 # Premium-AI-Image-Upscaler-API
 
-> ⚡ **This API is exclusively available on [RapidAPI](https://rapidapi.com/arxivgpt-arxivgpt-default/api/premium-ai-image-upscaler-api1/)**. Subscribe to start using it today!
+# ⚠️ IMPORTANT NOTICE
+
+This repository contains only documentation. To use the API, you must:
+
+1. **Visit our [RapidAPI page](https://rapidapi.com/arxivgpt-arxivgpt-default/api/premium-ai-image-upscaler-api1/)**
+2. Subscribe to a plan
+3. Get your API key
+
+The API is **exclusively available through RapidAPI** - you cannot use it directly from this repository.
+
+---
 
 Premium AI Image Upscaler API transforms your images into high-quality, enhanced versions with improved resolution and clarity:
 
