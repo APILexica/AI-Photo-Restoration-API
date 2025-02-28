@@ -6,7 +6,7 @@ info:
   description: Advanced AI-powered image restoration service that enhances image quality, reduces noise, and recovers details.
 
 servers:
-  - url: https://ai-photo-restoration-api-production.up.railway.app
+  - url: https://ai-photo-restoration-api.p.rapidapi.com
     description: Production server
 
 paths:
