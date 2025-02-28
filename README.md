@@ -1,4 +1,4 @@
-# AI-Photo-Restoration-API
+# AI Photo Restoration API
 
 # ⚠️ IMPORTANT NOTICE
 
@@ -10,13 +10,11 @@ This repository contains only documentation. To use the API, you must:
 
 The API is **exclusively available through RapidAPI** - you cannot use it directly from this repository.
 
----
-
 Transform your degraded images into high-quality, restored versions using AI technology:
 
-| Before                                                            | After                                                                      |
-| ----------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| ![Before Image](https://api-lexica.s3.us-east-1.amazonaws.com/examples/0014.jpg) | ![After Image](https://api-lexica.s3.amazonaws.com/ai-photo-restoration-api/baa747c8-e5d3-43b3-b436-d4ff7ed8bdee.png) |
+| Before                                                                                  | After                                                                                                                         |
+| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://api-lexica.s3.us-east-1.amazonaws.com/examples/0014.jpg" width="400"> | <img src="https://api-lexica.s3.amazonaws.com/ai-photo-restoration-api/baa747c8-e5d3-43b3-b436-d4ff7ed8bdee.png" width="400"> |
 
 ## Getting Started
 
