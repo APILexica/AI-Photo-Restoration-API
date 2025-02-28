@@ -12,9 +12,20 @@ The API is **exclusively available through RapidAPI** - you cannot use it direct
 
 Transform your degraded images into high-quality, restored versions using AI technology:
 
-| Before                                                                                  | After                                                                                                                         |
-| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://api-lexica.s3.us-east-1.amazonaws.com/examples/0014.jpg" width="400"> | <img src="https://api-lexica.s3.amazonaws.com/ai-photo-restoration-api/baa747c8-e5d3-43b3-b436-d4ff7ed8bdee.png" width="400"> |
+<table>
+<tr>
+<th>Before</th>
+<th>After</th>
+</tr>
+<tr>
+<td>
+<img src="https://api-lexica.s3.us-east-1.amazonaws.com/examples/0014.jpg" width="400" alt="Before Image">
+</td>
+<td>
+<img src="https://api-lexica.s3.amazonaws.com/ai-photo-restoration-api/baa747c8-e5d3-43b3-b436-d4ff7ed8bdee.png" width="400" alt="After Image">
+</td>
+</tr>
+</table>
 
 ## Getting Started
 
